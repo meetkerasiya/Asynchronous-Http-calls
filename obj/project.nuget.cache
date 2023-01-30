@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W3VRgVHqGFDCaSfgMlNJGziARxenXWkmm9p97iVoccqVfxggRk/6FPL6mgY94MeGoRWmfQuGPD37elf3b1yy3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Meet  Kerasiya\\source\\repos\\Asynchronous Http calls\\Asynchronous Http calls\\Asynchronous Http calls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meet  Kerasiya\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
